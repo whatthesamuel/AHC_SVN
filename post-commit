@@ -1,0 +1,11 @@
+#!/bin/sh
+
+#post-commit script to do this
+
+REPOS="$1"
+REV="$2"
+TXN_NAME="$3"
+
+MESSAGE="$(svnlook log $REPOS)"
+
+sh /var/lib/svn/AHC_SVN/update.sh $REV $TXN_NAME "$MESSAGE"
