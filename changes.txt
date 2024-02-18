@@ -73,3 +73,4 @@ rev: 275 274-8i Confirmation
 rev: 276 message: git test
 rev: 277 message: Bullet effects update
 rev: 278 message: initial recoil animation setup
+rev: 279 message: mark assets for deletion to avoid conflicts
