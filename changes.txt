@@ -75,3 +75,4 @@ rev: 277 message: Bullet effects update
 rev: 278 message: initial recoil animation setup
 rev: 279 message: mark assets for deletion to avoid conflicts
 rev: 280 message: imported new aiming animations
+rev: 281 message: assets marked for deletion
