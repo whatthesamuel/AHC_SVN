@@ -82,3 +82,4 @@ rev: 284 message: fixed some animbp & aiming bugs: check trillium
 rev: 285 message: add support for more guns
 rev: 286 message: maintenance project cleanup
 rev: 287 message: cpp code cleanup
+rev: 288 message: ai update
