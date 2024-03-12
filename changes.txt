@@ -87,3 +87,4 @@ rev: 289 message: added new anim-recoil system support for existing weapons
 rev: 290 message: Server widget bug fixes
 rev: 291 message: mark for deletion
 rev: 292 message: Socket fixes on skeletal meshes
+rev: 293 message: save progress on character bug fixes
