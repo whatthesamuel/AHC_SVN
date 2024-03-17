@@ -52,3 +52,4 @@ rev: 300 message:
 rev: 301 message: Gun RPC functions and variable replication bug fixes
 rev: 302 message: reparent target actor to character parent
 rev: 303 message: tag no longer needed
+rev: 304 message: physicsmaterial created and assigned for certain assets
