@@ -49,3 +49,4 @@ rev: 297 message: clean up files(trunk)
 rev: 298 message: mp replication bug fix 1
 rev: 299 message: Gun effects update
 rev: 300 message: 
+rev: 301 message: Gun RPC functions and variable replication bug fixes
