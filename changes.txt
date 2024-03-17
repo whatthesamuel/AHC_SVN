@@ -51,3 +51,4 @@ rev: 299 message: Gun effects update
 rev: 300 message: 
 rev: 301 message: Gun RPC functions and variable replication bug fixes
 rev: 302 message: reparent target actor to character parent
+rev: 303 message: tag no longer needed
