@@ -57,3 +57,4 @@ rev: 305 message: AI Improvements
 rev: 306 message: AnimBP fix
 rev: 307 message: anim bug fix
 rev: 308 message: levels class reparent
+rev: 309 message: gamemode, map, gun pointer fixes
