@@ -54,3 +54,4 @@ rev: 318 message: changes to svn tags/development
 rev: 319 message: 
 rev: 320 message: adding all files/folders to version control for convenience
 rev: 321 message: reinit development tag due to server renewal
+rev: 322 message: added ignore file properties to .vs / Binaries / DerivedDataCache / Intermediate / Saved / .sln
