@@ -49,3 +49,4 @@ rev: 308 message: levels class reparent
 rev: 309 message: gamemode, map, gun pointer fixes
 rev: 310 message: Effects change according to Physics material
 rev: 311 message: mark assets for deletion
+rev: 317 message: gun bug fix while reorganizing svn directories
