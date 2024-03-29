@@ -59,3 +59,4 @@ rev: 323 message: add ignore list
 rev: 324 message: import new animations
 rev: 325 message: 
 rev: 326 message: deleted/missing files
+rev: 327 message: modified/deleted assets
