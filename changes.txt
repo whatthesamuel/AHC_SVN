@@ -63,3 +63,4 @@ rev: 327 message: modified/deleted assets
 rev: 328 message: aim cancel when sprinting
 rev: 329 message: widgets update
 rev: 330 message: deleted unused assets
+rev: 331 message: mark files for deletion
