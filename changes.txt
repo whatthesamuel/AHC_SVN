@@ -70,3 +70,4 @@ rev: 334 message: UI & EOS update
 rev: 335 message: replication bug fix
 rev: 336 message: hit effects update
 rev: 337 message: remove deprecated assets
+rev: 338 message: updated/fixed outdated map references
