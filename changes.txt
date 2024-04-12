@@ -80,3 +80,4 @@ rev: 344 message: deleted obsolete/deprecated assets
 rev: 345 message: Begin translation
 rev: 346 message: renamed/reorganized assets with confusing directories/names
 rev: 347 message: gun positioning fix
+rev: 348 message: mark missing assets for deletion
