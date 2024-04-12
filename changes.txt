@@ -79,3 +79,4 @@ rev: 343 message: hotfix for previous commit
 rev: 344 message: deleted obsolete/deprecated assets
 rev: 345 message: Begin translation
 rev: 346 message: renamed/reorganized assets with confusing directories/names
+rev: 347 message: gun positioning fix
