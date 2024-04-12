@@ -82,3 +82,4 @@ rev: 346 message: renamed/reorganized assets with confusing directories/names
 rev: 347 message: gun positioning fix
 rev: 348 message: mark missing assets for deletion
 rev: 349 message: previous commit didn't properly delete everything for some reason
+rev: 350 message: anim update
