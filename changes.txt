@@ -1,0 +1,92 @@
+rev: 261 260-84
+rev: 262 261-85
+rev: 263 262-86
+rev: 264 263-87
+rev: 265 264-88
+rev: 266 265-89
+rev: 267 266-8a
+rev: 268 267-8b
+rev: 269 268-8c
+rev: 270 269-8d
+rev: 271 270-8e
+rev: 272 271-8f
+rev: 273 272-8g
+rev: 274 273-8h ABP
+rev: 275 274-8i Confirmation
+rev: 276 message: git test
+rev: 277 message: Bullet effects update
+rev: 278 message: initial recoil animation setup
+rev: 279 message: mark assets for deletion to avoid conflicts
+rev: 280 message: imported new aiming animations
+rev: 281 message: assets marked for deletion
+rev: 282 message: Aiming animation update 1: check for to fix list in trillium
+rev: 283 message: cpp update for previous commit
+rev: 284 message: fixed some animbp & aiming bugs: check trillium
+rev: 285 message: add support for more guns
+rev: 286 message: maintenance project cleanup
+rev: 287 message: cpp code cleanup
+rev: 288 message: ai update
+rev: 289 message: added new anim-recoil system support for existing weapons
+rev: 290 message: Server widget bug fixes
+rev: 291 message: mark for deletion
+rev: 292 message: Socket fixes on skeletal meshes
+rev: 293 message: save progress on character bug fixes
+rev: 294 message: widget bug fixed
+rev: 295 message: creating trunk directory
+rev: 296 message: create branch for replication bugfix
+rev: 297 message: clean up files(trunk)
+rev: 298 message: mp replication bug fix 1
+rev: 299 message: Gun effects update
+rev: 300 message: 
+rev: 301 message: Gun RPC functions and variable replication bug fixes
+rev: 302 message: reparent target actor to character parent
+rev: 303 message: tag no longer needed
+rev: 304 message: physicsmaterial created and assigned for certain assets
+rev: 305 message: AI Improvements 
+rev: 306 message: AnimBP fix
+rev: 307 message: anim bug fix
+rev: 308 message: levels class reparent
+rev: 309 message: gamemode, map, gun pointer fixes
+rev: 310 message: Effects change according to Physics material
+rev: 311 message: mark assets for deletion
+rev: 317 message: gun bug fix while reorganizing svn directories
+rev: 318 message: changes to svn tags/development
+rev: 319 message: 
+rev: 320 message: adding all files/folders to version control for convenience
+rev: 321 message: reinit development tag due to server renewal
+rev: 322 message: added ignore file properties to .vs / Binaries / DerivedDataCache / Intermediate / Saved / .sln
+rev: 323 message: add ignore list
+rev: 324 message: import new animations
+rev: 325 message: 
+rev: 326 message: deleted/missing files
+rev: 327 message: modified/deleted assets
+rev: 328 message: aim cancel when sprinting
+rev: 329 message: widgets update
+rev: 330 message: deleted unused assets
+rev: 331 message: mark files for deletion
+rev: 332 message: anim bug fixes
+rev: 333 message: missed changes from previous commit
+rev: 334 message: UI & EOS update
+rev: 335 message: replication bug fix
+rev: 336 message: hit effects update
+rev: 337 message: remove deprecated assets
+rev: 338 message: updated/fixed outdated map references
+rev: 339 message: deleted left over assets from previous commit
+rev: 340 message: fixed replication bug fix
+rev: 341 message: aim replication
+rev: 342 message: aiming replication bug fix
+rev: 343 message: hotfix for previous commit
+rev: 344 message: deleted obsolete/deprecated assets
+rev: 345 message: Begin translation
+rev: 346 message: renamed/reorganized assets with confusing directories/names
+rev: 347 message: gun positioning fix
+rev: 348 message: mark missing assets for deletion
+rev: 349 message: previous commit didn't properly delete everything for some reason
+rev: 350 message: anim update
+rev: 351 message: reorganized directories/files
+rev: 352 message: cleanup files
+rev: 353 message: create new branch for new anim system
+rev: 354 message: localization update
+rev: 355 message: reduced project size
+rev: 356 message: anim offset test
+rev: 357 message: reload bug fix
