@@ -48,3 +48,4 @@ rev: 354 message: localization update
 rev: 355 message: reduced project size
 rev: 356 message: anim offset test
 rev: 357 message: reload bug fix
+rev: 358 message: mp anim bug hotfix
