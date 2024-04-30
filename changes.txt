@@ -51,3 +51,4 @@ rev: 357 message: reload bug fix
 rev: 358 message: mp anim bug hotfix
 rev: 359 message: start on loadout system
 rev: 360 message: improved main menu
+rev: 361 message: Aiming replication fix
