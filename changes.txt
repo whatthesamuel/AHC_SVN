@@ -53,3 +53,4 @@ rev: 359 message: start on loadout system
 rev: 360 message: improved main menu
 rev: 361 message: Aiming replication fix
 rev: 362 message: add unversioned files
+rev: 363 message: editable player inputs
