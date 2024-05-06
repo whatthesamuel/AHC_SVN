@@ -55,3 +55,4 @@ rev: 361 message: Aiming replication fix
 rev: 362 message: add unversioned files
 rev: 363 message: editable player inputs
 rev: 364 message: new sounds and footsteps
+rev: 365 message: EOS version update
