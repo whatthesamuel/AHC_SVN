@@ -1,13 +1,3 @@
-rev: 303 message: tag no longer needed
-rev: 304 message: physicsmaterial created and assigned for certain assets
-rev: 305 message: AI Improvements 
-rev: 306 message: AnimBP fix
-rev: 307 message: anim bug fix
-rev: 308 message: levels class reparent
-rev: 309 message: gamemode, map, gun pointer fixes
-rev: 310 message: Effects change according to Physics material
-rev: 311 message: mark assets for deletion
-rev: 317 message: gun bug fix while reorganizing svn directories
 rev: 318 message: changes to svn tags/development
 rev: 319 message: 
 rev: 320 message: adding all files/folders to version control for convenience
