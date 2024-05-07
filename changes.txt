@@ -57,3 +57,4 @@ rev: 363 message: editable player inputs
 rev: 364 message: new sounds and footsteps
 rev: 365 message: EOS version update
 rev: 366 message: UI color change
+rev: 367 message: partial fix to rev 365
