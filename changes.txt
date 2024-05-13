@@ -50,3 +50,4 @@ rev: 366 message: UI color change
 rev: 367 message: partial fix to rev 365
 rev: 368 message: made login optional
 rev: 369 message: player hit camera shake & splatter effects
+rev: 370 message: camera clipping bug fix
