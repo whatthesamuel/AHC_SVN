@@ -54,3 +54,4 @@ rev: 370 message: camera clipping bug fix
 rev: 371 message: gun sounds update
 rev: 372 message: added controller support
 rev: 373 message: new ai implementation
+rev: 374 message: AI update
