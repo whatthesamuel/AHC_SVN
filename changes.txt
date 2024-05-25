@@ -58,3 +58,4 @@ rev: 374 message: AI update
 rev: 375 message: add Levels
 rev: 376 message: Temp fix anim bugs
 rev: 377 message: new build script
+rev: 378 message: spawn location bug fix
