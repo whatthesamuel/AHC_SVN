@@ -60,3 +60,4 @@ rev: 376 message: Temp fix anim bugs
 rev: 377 message: new build script
 rev: 378 message: spawn location bug fix
 rev: 379 message: add ai trigger spawn
+rev: 380 message: removed unused files
