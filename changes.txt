@@ -69,3 +69,4 @@ rev: 385 message: code optimization
 rev: 386 message: Gun damage balancing
 rev: 387 message: bullet penetration
 rev: 388 message: test map changes
+rev: 389 message: added crouching
