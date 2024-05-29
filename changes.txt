@@ -71,3 +71,4 @@ rev: 387 message: bullet penetration
 rev: 388 message: test map changes
 rev: 389 message: added crouching
 rev: 390 message: ui improvements + level selector
+rev: 391 message: gun ammo bug fix
