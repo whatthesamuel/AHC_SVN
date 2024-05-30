@@ -73,3 +73,4 @@ rev: 389 message: added crouching
 rev: 390 message: ui improvements + level selector
 rev: 391 message: gun ammo bug fix
 rev: 392 message: format and cleanup cpp files
+rev: 393 message: added grenade throwing
