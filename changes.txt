@@ -78,3 +78,4 @@ rev: 394 message: minor changes to SP map & added mesh to player
 rev: 395 message: reload bug fix
 rev: 396 message: rewrote the guns to use interfaces
 rev: 397 message: delete unused assets
+rev: 398 message: AI controller update
