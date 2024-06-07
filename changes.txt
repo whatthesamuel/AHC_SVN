@@ -80,3 +80,4 @@ rev: 396 message: rewrote the guns to use interfaces
 rev: 397 message: delete unused assets
 rev: 398 message: AI controller update
 rev: 399 message: ai tasks improvements
+rev: 400 message: add ammo pickup
