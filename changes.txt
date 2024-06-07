@@ -79,3 +79,4 @@ rev: 395 message: reload bug fix
 rev: 396 message: rewrote the guns to use interfaces
 rev: 397 message: delete unused assets
 rev: 398 message: AI controller update
+rev: 399 message: ai tasks improvements
