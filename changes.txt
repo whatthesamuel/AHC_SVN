@@ -84,3 +84,4 @@ rev: 400 message: add ammo pickup
 rev: 401 message: pve update on harbour
 rev: 402 message: UI localization update
 rev: 403 message: map AI update
+rev: 404 message: add respawning and balance ai
