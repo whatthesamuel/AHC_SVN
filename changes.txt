@@ -82,3 +82,4 @@ rev: 398 message: AI controller update
 rev: 399 message: ai tasks improvements
 rev: 400 message: add ammo pickup
 rev: 401 message: pve update on harbour
+rev: 402 message: UI localization update
