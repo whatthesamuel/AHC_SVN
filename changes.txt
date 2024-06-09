@@ -86,3 +86,4 @@ rev: 402 message: UI localization update
 rev: 403 message: map AI update
 rev: 404 message: add respawning and balance ai
 rev: 405 message: organize files
+rev: 406 message: Better AI detection
