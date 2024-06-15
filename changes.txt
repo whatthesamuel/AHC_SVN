@@ -87,3 +87,4 @@ rev: 403 message: map AI update
 rev: 404 message: add respawning and balance ai
 rev: 405 message: organize files
 rev: 406 message: Better AI detection
+rev: 407 message: fixed options widget replicating when respawn
