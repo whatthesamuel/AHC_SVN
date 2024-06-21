@@ -89,3 +89,4 @@ rev: 405 message: organize files
 rev: 406 message: Better AI detection
 rev: 407 message: fixed options widget replicating when respawn
 rev: 408 message: UI text update
+rev: 409 message: AI logic update
