@@ -51,3 +51,4 @@ rev: 413 message: [svn][tags] remove_unused_tags .
 rev: 414 message: [branch:development][cpp] optimization: cpp optimizations
 rev: 415 message: [branch:development][cpp] optimization: cpp optimizations
 rev: 416 message: [branch:development][BP] fixes: weapon animation bug fix
+rev: 417 message: [branch:development][BP] optimization: BP optimizations for implementable functions
