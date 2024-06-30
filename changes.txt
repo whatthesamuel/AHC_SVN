@@ -53,3 +53,4 @@ rev: 415 message: [branch:development][cpp] optimization: cpp optimizations
 rev: 416 message: [branch:development][BP] fixes: weapon animation bug fix
 rev: 417 message: [branch:development][BP] optimization: BP optimizations for implementable functions
 rev: 418 message: 
+rev: 419 message: [branch:development][BP] add: first person arms & animations
