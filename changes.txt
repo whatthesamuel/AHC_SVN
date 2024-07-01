@@ -55,3 +55,4 @@ rev: 417 message: [branch:development][BP] optimization: BP optimizations for im
 rev: 418 message: 
 rev: 419 message: [branch:development][BP] add: first person arms & animations
 rev: 420 message: 
+rev: 421 message: [branch:development][BP] update: improved handling game over state
