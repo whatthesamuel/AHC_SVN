@@ -58,3 +58,4 @@ rev: 420 message:
 rev: 421 message: [branch:development][BP] update: improved handling game over state
 rev: 422 message: [branch:development] clean up files & assets
 rev: 423 message: 
+rev: 424 message: [branch:development][BP] fixes: Steam - EOS issue connectivity issue
