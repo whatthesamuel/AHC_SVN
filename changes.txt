@@ -51,3 +51,4 @@ rev: 425 message: [branch:development][BP] update: first person arms & animation
 rev: 426 message: [svn] new branch for testing anim rework
 rev: 427 message: 
 rev: 428 message: 
+rev: 429 message: [branch:development][BP] update: anim stuttering patch
