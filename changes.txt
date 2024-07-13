@@ -1,15 +1,3 @@
-rev: 364 message: new sounds and footsteps
-rev: 365 message: EOS version update
-rev: 366 message: UI color change
-rev: 367 message: partial fix to rev 365
-rev: 368 message: made login optional
-rev: 369 message: player hit camera shake & splatter effects
-rev: 370 message: camera clipping bug fix
-rev: 371 message: gun sounds update
-rev: 372 message: added controller support
-rev: 373 message: new ai implementation
-rev: 374 message: AI update
-rev: 375 message: add Levels
 rev: 376 message: Temp fix anim bugs
 rev: 377 message: new build script
 rev: 378 message: spawn location bug fix
