@@ -52,3 +52,4 @@ rev: 426 message: [svn] new branch for testing anim rework
 rev: 427 message: 
 rev: 428 message: 
 rev: 429 message: [branch:development][BP] update: anim stuttering patch
+rev: 430 message: plugin [branch:development] update: bp/config fixes for plugin update
